@@ -1,0 +1,30 @@
+{
+  "name": "gulp-hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awwlera/gulp-hw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awwlera/gulp-hw/issues"
+  },
+  "homepage": "https://github.com/awwlera/gulp-hw#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "sass": "^1.51.0"
+  },
+  "dependencies": {
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-watch": "^5.0.1"
+  }
+}
